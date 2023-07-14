@@ -129,10 +129,10 @@ img {
 ************************************************/
 
 @media screen and (max-width:768px) {
-  .site-header{
-    display: flex;
-    justify-content: center;
-  }  
+  
+    .container{
+        width: 768px;
+    }
     
 }
 
